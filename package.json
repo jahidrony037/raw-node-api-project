@@ -1,0 +1,14 @@
+{
+  "name": "raw-node-api-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jahid",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "yarn nodemon index",
+    "dev": "nodemon index.js"
+  }
+}
